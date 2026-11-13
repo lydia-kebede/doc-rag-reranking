@@ -47,3 +47,4 @@ The reranker supports passage dictionaries with `text`, `content`, or `page_cont
 
 Citation validation checks that cited source labels exist. It does not establish that a cited passage semantically supports every claim; that needs a separate evaluation step.
 # doc-rag-reranking
+# doc-rag-reranking
